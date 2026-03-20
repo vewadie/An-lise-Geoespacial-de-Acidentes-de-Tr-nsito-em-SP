@@ -8,10 +8,13 @@ Análise geoespacial de acidentes de trânsito no estado de São Paulo (2021–2
 
 ## Fontes de Dados
 
-| Fonte | Descrição | URL |
-|---|---|---|
-| **Infosiga SP** | Dados de acidentes com vítimas por município, tipo de veículo, causa e data | https://www.infosiga.sp.gov.br |
-| **IBGE** | Malha municipal do estado de SP (shapefile 2022) | https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2022/UFs/SP/ |
+Fonte: **Infosiga SP**    
+Descrição: Dados de acidentes com vítimas por município, tipo de veículo, causa e data                      
+URL: https://www.infosiga.sp.gov.br
+
+Fonte: **IBGE**          
+Descrição: Malha municipal do estado de SP (shapefile 2022)          
+URL: https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2022/UFs/SP/ 
 
 > Os dados do Infosiga são de acesso público e podem ser baixados na seção "Dados Abertos" do portal.
 
