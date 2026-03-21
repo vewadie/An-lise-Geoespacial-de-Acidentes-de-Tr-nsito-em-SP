@@ -13,7 +13,7 @@ Descrição: Dados de sinistros com vítimas: tipo, localização, gravidade, tu
 URL: https://www.infosiga.sp.gov.br
 
 Fonte:  **IBGE**    
-Descrição: Malha municipal do estado de SP (shapefile 2022)
+Descrição: Malha municipal do estado de SP (shapefile 2022)   
 URL: https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2022/UFs/SP/ 
 
 > Os dados do Infosiga são de acesso público. Baixe o ZIP na seção **Dados Abertos** do portal e faça upload no Colab conforme instruído no notebook de coleta.
