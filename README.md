@@ -2,6 +2,13 @@
 
 Projeto de análise de dados geográficos — disciplina de Banco de Dados Geográficos.
 
+## Grupo
+| Nome | RA |
+|---|---|
+| Verina Hani Mekhail Wadie | 23.01266-8 |
+| João Pedro de Souza Cruz | 23.00057-0 |
+| Victor Cecche Pregnolatto | 21.00928-7 |
+
 ## Tema
 
 Análise geoespacial de sinistros de trânsito no estado de São Paulo (2015–2026), com foco em identificação de zonas de risco, padrões temporais e distribuição geográfica.
